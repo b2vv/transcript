@@ -1,0 +1,3 @@
+[submodule "audio-transcript-ui"]
+	path = audio-transcript-ui
+	url = git@github.com:b2vv/audio-transcript-ui.git
